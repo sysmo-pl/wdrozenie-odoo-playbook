@@ -1,0 +1,16 @@
+# Pliki tymczasowe
+*.zip
+narzedzia/
+*.pyc
+__pycache__/
+.env
+.env.*
+*.log
+
+# Systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+.vscode/
+.idea/

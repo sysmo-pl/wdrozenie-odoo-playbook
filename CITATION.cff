@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Jeśli korzystasz z tego materiału, zacytuj go w poniższy sposób. / If you use this material, please cite it as below."
+type: dataset
+title: "Playbook wdrożeń Odoo: metodyka i szablony Sysmo.pl"
+abstract: "Polish-language Odoo ERP implementation playbook by Sysmo.pl: discovery questions, FIT/GAP, architecture, custom Python modules, API integrations, data migration, security, UAT, go-live, audits and KSeF. Synthetic examples only."
+version: 1.0.0
+date-released: 2026-11-14
+license: CC-BY-4.0
+authors:
+  - name: "Sysmo.pl"
+    website: "https://sysmo.pl/"
+repository-code: "https://github.com/sysmo-pl/wdrozenie-odoo-playbook"
+url: "https://github.com/sysmo-pl/wdrozenie-odoo-playbook"
+keywords:
+  - odoo
+  - erp
+  - implementation
+  - data migration
+  - api integration
+  - ksef
+  - polish

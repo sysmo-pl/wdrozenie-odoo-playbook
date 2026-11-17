@@ -9,9 +9,9 @@ Nie trzeba czytać wszystkiego. Wybierz rolę, przeczytaj dwa, trzy wskazane roz
 | Sponsor / właściciel biznesowy | [01 Etapy](docs/01-etapy-wdrozenia.md), 15 Ryzyka *(wkrótce)* | Cele, budżet, granice zakresu, decyzje, właściciel odbioru |
 | PM / delivery lead | [01 Etapy](docs/01-etapy-wdrozenia.md), [02 Kick-off](docs/02-kickoff-discovery.md), 12 Go-Live *(wkrótce)* | Plan, zależności, rejestr ryzyk i decyzji, bramki jakości |
 | Konsultant / analityk | [03 Pytania](docs/03-pytania-do-klienta.md), [04 FIT/GAP](docs/04-mapa-procesow-fit-gap.md) | Procesy AS-IS/TO-BE, kryteria akceptacji, backlog i priorytety |
-| Programista Odoo / lider techniczny (tech lead) | 05 Architektura *(wkrótce)*, 08 Python *(wkrótce)*, 10 Security *(wkrótce)* | Decyzje techniczne, testy, przegląd zmian, plan aktualizacji |
+| Programista Odoo / lider techniczny (tech lead) | [05 Architektura](docs/05-architektura-srodowiska.md), [08 Python](docs/08-standard-modulow-python.md), [10 Security](docs/10-bezpieczenstwo.md) | Decyzje techniczne, testy, przegląd zmian, plan aktualizacji |
 | Audytor istniejącego wdrożenia | 20 Audyt *(wkrótce)*, 18 Błędy *(wkrótce)* | Ocena ryzyka, lista dowodów i plan naprawczy |
-| Integrator / DevOps | 09 API *(wkrótce)*, 10 Security *(wkrótce)*, 13 Utrzymanie *(wkrótce)* | Kontrakt API, monitoring, retry, backup/restore, runbook |
+| Integrator / DevOps | [09 API](docs/09-standard-integracji-api.md), [10 Security](docs/10-bezpieczenstwo.md), 13 Utrzymanie *(wkrótce)* | Kontrakt API, monitoring, retry, backup/restore, runbook |
 | Key user / tester | 11 UAT *(wkrótce)*, 14 Szkolenia *(wkrótce)* | Scenariusze, dowody testów, podpisany odbiór biznesowy |
 
 ## Reguła pracy na każdym wymaganiu
@@ -32,12 +32,12 @@ Tickety, nazwy baz, numery dokumentów, logi, sekrety, konfiguracja produkcyjna 
 - [Karta projektu](szablony/karta-projektu.md): po kwalifikacji i na kick-off.
 - [Notatka discovery](szablony/notatka-discovery.md) i [karta procesu](szablony/karta-procesu.md): po każdym warsztacie.
 - [Rejestr wymagań FIT/GAP](szablony/rejestr-wymagan.md): przed zamrożeniem zakresu.
-- Macierz ról *(wkrótce)*: przed UAT.
-- Karta integracji *(wkrótce)*, karta incydentu *(wkrótce)*, plan migracji *(wkrótce)*: przed developmentem i testami end-to-end.
+- [Macierz ról](szablony/macierz-rol.md): przed UAT.
+- [Karta integracji](szablony/karta-integracji.md), [karta incydentu](szablony/karta-incydentu-integracji.md), [plan migracji](szablony/plan-migracji.md): przed developmentem i testami end-to-end.
 - Scenariusze UAT *(wkrótce)*: przed odbiorem.
 - Checklista Go-Live *(wkrótce)*: przed zgodą na uruchomienie.
 - [Rejestr ryzyk i decyzji](szablony/rejestr-ryzyk-decyzji.md): prowadzony od dnia 1.
-- ADR *(wkrótce)*: dla decyzji o ważnych konsekwencjach technicznych i kosztowych.
+- [ADR](szablony/adr-decyzja-architektoniczna.md): dla decyzji o ważnych konsekwencjach technicznych i kosztowych.
 - Karta audytu *(wkrótce)*: przy przejęciu utrzymania lub ocenie istniejącego Odoo.
 
 ## Co oznaczają poziomy priorytetu?
@@ -49,4 +49,4 @@ Tickety, nazwy baz, numery dokumentów, logi, sekrety, konfiguracja produkcyjna 
 
 Klasyfikację uzgadnia się z klientem. Priorytet w projekcie to co innego niż priorytet zgłoszenia w utrzymaniu.
 
-Gdy coś już się zepsuło, zacznij od katalogu błędów *(wkrótce)*, a przy integracjach od scenariuszy awarii *(wkrótce)*.
+Gdy coś już się zepsuło, zacznij od katalogu błędów *(wkrótce)*, a przy integracjach od [scenariuszy awarii](docs/21-incydenty-integracji-api.md).

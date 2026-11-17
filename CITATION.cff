@@ -3,8 +3,8 @@ message: "Jeśli korzystasz z tego materiału, zacytuj go w poniższy sposób. /
 type: dataset
 title: "Playbook wdrożeń Odoo: metodyka i szablony Sysmo.pl"
 abstract: "Polish-language Odoo ERP implementation playbook by Sysmo.pl: discovery questions, FIT/GAP, architecture, custom Python modules, API integrations, data migration, security, UAT, go-live, audits and KSeF. Synthetic examples only."
-version: 1.0.0
-date-released: 2026-11-14
+version: 1.1.0
+date-released: 2026-11-17
 license: CC-BY-4.0
 authors:
   - name: "Sysmo.pl"

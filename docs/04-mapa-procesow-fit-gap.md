@@ -73,4 +73,4 @@ REQ-042: blokada wydania ponad limit kredytowy (fikcyjny)
 - Nie wrzucaj do backlogu „integracja z ERP” bez danych, mapowania, awarii i właściciela.
 - Nie akceptuj „działa na moim koncie” jako dowodu testu uprawnień.
 
-Dalsza decyzja: drzewo standard / Studio / Python / API *(wkrótce)* · trzy przykładowe ADR *(wkrótce)*.
+Dalsza decyzja: [drzewo standard / Studio / Python / API](19-drzewo-decyzyjne-customizacja.md) · [trzy przykładowe ADR](24-decyzje-architektoniczne-adr.md).

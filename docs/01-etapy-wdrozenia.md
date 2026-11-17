@@ -137,4 +137,4 @@ Bramka: ustalone metryki stabilności spełnione, otwarte problemy mają plan i 
 
 **Nie rekomenduj GO**, jeżeli: nie da się odtworzyć danych; test uprawnień ujawnia informacje nieuprawnionym rolom; nie uzgodniono danych krytycznych; kluczowa integracja gubi albo dubluje transakcje; brak właściciela decyzji lub obejścia dla procesu krytycznego.
 
-Weryfikacja procesu: drzewo decyzji customizacji *(wkrótce)* · katalog błędów *(wkrótce)* · audyt po wdrożeniu *(wkrótce)*.
+Weryfikacja procesu: [drzewo decyzji customizacji](19-drzewo-decyzyjne-customizacja.md) · katalog błędów *(wkrótce)* · audyt po wdrożeniu *(wkrótce)*.

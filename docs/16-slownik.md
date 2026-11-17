@@ -42,4 +42,4 @@ Skróty i terminy z playbooku, razem z angielskimi nazwami, pod którymi występ
 | Upsert | Aktualizacja istniejącego rekordu albo utworzenie nowego według stabilnego klucza. |
 | WMS | Warehouse Management System: system zarządzania magazynem. |
 
-Zobacz też: [bank pytań](03-pytania-do-klienta.md) · integracje *(wkrótce)*
+Zobacz też: [bank pytań](03-pytania-do-klienta.md) · [integracje](09-standard-integracji-api.md)

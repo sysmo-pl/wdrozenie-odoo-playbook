@@ -69,7 +69,7 @@ Zademonstruj na środowisku testowym KSeF: faktura → wysyłka → potwierdzony
 
 Pułapki: oznaczenie „wysłano” traktowane jak „przyjęto” bez potwierdzenia z KSeF; automatyczne ponawianie bez sprawdzenia stanu dokumentu; moduł dodatkowy w Odoo 16–17 bez obsługi aktualnej struktury FA(3); brak właściciela certyfikatu i terminu jego odnowienia.
 
-Pytania do klienta o KSeF: [blok I banku pytań](03-pytania-do-klienta.md#i-ksef-i-fakturowanie-elektroniczne-12-pytań). Scenariusz awarii: AWR-06 *(wkrótce)*. Wdrożenie KSeF w Odoo w praktyce opisuje też wpis [Odoo a KSeF](https://sysmo.pl/odoo-ksef-integracja/) zespołu Sysmo.pl.
+Pytania do klienta o KSeF: [blok I banku pytań](03-pytania-do-klienta.md#i-ksef-i-fakturowanie-elektroniczne-12-pytań). Scenariusz awarii: [AWR-06](21-incydenty-integracji-api.md#scenariusz-awr-06-niedostępność-ksef-lub-systemu-finansowego). Wdrożenie KSeF w Odoo w praktyce opisuje też wpis [Odoo a KSeF](https://sysmo.pl/odoo-ksef-integracja/) zespołu Sysmo.pl.
 
 ## 7. E-commerce
 

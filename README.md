@@ -6,9 +6,9 @@ Jeśli nie wiesz, od czego zacząć, otwórz [START-HERE](START-HERE.md).
 
 ## Zawartość
 
-- [Spis rozdziałów](docs/README.md), m.in. [etapy wdrożenia](docs/01-etapy-wdrozenia.md), [pytania do klienta](docs/03-pytania-do-klienta.md), [FIT/GAP](docs/04-mapa-procesow-fit-gap.md), moduły Python *(wkrótce)*, integracje API *(wkrótce)*, migracja danych *(wkrótce)*, Go-Live *(wkrótce)*, [KSeF w Odoo](docs/06-konfiguracja-obszarow.md#6-ksef-w-odoo) i FAQ *(wkrótce)*
-- [Szablony](szablony/README.md): karta projektu, karta procesu, rejestr wymagań i rejestr ryzyk (kolejne wkrótce)
-- Przykłady *(wkrótce)*: sześć scenariuszy do warsztatów; firmy, liczby i dokumenty są w nich zmyślone (syntetyczne), nie pochodzą od klientów
+- [Spis rozdziałów](docs/README.md), m.in. [etapy wdrożenia](docs/01-etapy-wdrozenia.md), [pytania do klienta](docs/03-pytania-do-klienta.md), [FIT/GAP](docs/04-mapa-procesow-fit-gap.md), [moduły Python](docs/08-standard-modulow-python.md), [integracje API](docs/09-standard-integracji-api.md), [migracja danych](docs/07-migracja-danych.md), Go-Live *(wkrótce)*, [KSeF w Odoo](docs/06-konfiguracja-obszarow.md#6-ksef-w-odoo) i FAQ *(wkrótce)*
+- [Szablony](szablony/README.md): karta projektu, rejestr wymagań, plan migracji, ADR i inne (kolejne wkrótce)
+- [Przykłady](przyklady/README.md): scenariusze do warsztatów (kolejne wkrótce); firmy, liczby i dokumenty są w nich zmyślone (syntetyczne), nie pochodzą od klientów
 - [Słownik pojęć](docs/16-slownik.md)
 
 Repozytorium nie zawiera kodu ani danych klientów. Rozdziały publikujemy stopniowo; te oznaczone „wkrótce” dojdą w kolejnych wydaniach (zob. [CHANGELOG](CHANGELOG.md)).
@@ -19,7 +19,7 @@ Odoo 16–19 i nowsze, w tym 20, Community i Enterprise. Szczegóły techniczne 
 
 ## Licencja
 
-Wersja 1.0.0, aktualizacja 14 listopada 2026 r. Treść: [CC BY 4.0](LICENCJA.md). Historia zmian: [CHANGELOG](CHANGELOG.md), cytowanie: [CITATION.cff](CITATION.cff). Zgłoszenia: [SECURITY](SECURITY.md), [CONTRIBUTING](CONTRIBUTING.md).
+Wersja 1.1.0, aktualizacja 17 listopada 2026 r. Treść: [CC BY 4.0](LICENCJA.md). Historia zmian: [CHANGELOG](CHANGELOG.md), cytowanie: [CITATION.cff](CITATION.cff). Zgłoszenia: [SECURITY](SECURITY.md), [CONTRIBUTING](CONTRIBUTING.md).
 
 Odoo jest znakiem towarowym Odoo S.A. To niezależne opracowanie, a nie oficjalna dokumentacja Odoo.
 
